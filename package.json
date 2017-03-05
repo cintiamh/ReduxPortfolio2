@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "Cintia Higashi's portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cintiamh/ReduxPortfolio2.git"
+  },
+  "keywords": [
+    "Cintia",
+    "Megumi",
+    "Higashi"
+  ],
+  "author": "Cintia Megumi Higashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cintiamh/ReduxPortfolio2/issues"
+  },
+  "homepage": "https://github.com/cintiamh/ReduxPortfolio2#readme"
+}
