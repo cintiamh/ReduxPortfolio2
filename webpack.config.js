@@ -1,6 +1,6 @@
 const path = require('path');
 const webpack = require('webpack');
-const ExtractTextPlugin = require("extract-text-webpack-plugin");
+const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 module.exports = {
     context: path.resolve(__dirname, './src'),
@@ -38,6 +38,6 @@ module.exports = {
         contentBase: path.resolve(__dirname, './src')
     },
     plugins: [
-        new ExtractTextPlugin("styles.css"),
+        new ExtractTextPlugin('styles.css'),
     ]
 };
